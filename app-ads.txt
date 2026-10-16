@@ -166,3 +166,7 @@ zmaticoo.com, 5135195, RESELLER
 
 # Liftoff Monetize (AdMob mediation bidding)
 vungle.com, 6ad1c65f56c1b4e3f258d673, DIRECT, c107d686becd2d77
+
+# Meta Audience Network (AdMob mediation bidding)
+facebook.com, 2872806689772559, DIRECT, c3e20eee3f780d68
+facebook.com, 943522218358785, DIRECT, c3e20eee3f780d68
